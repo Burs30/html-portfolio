@@ -1,0 +1,11 @@
+.all {
+    
+    width: 80%;
+    max-width: 500px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: auto;
+}
+img{
+    height: 200px;
+}
